@@ -1,0 +1,25 @@
+RETAIL SALES ANALYTICS — BUSINESS INSIGHTS
+
+1. Technology category generated the highest sales revenue.
+
+2. Western region contributed the highest overall profit.
+
+3. Some furniture sub-categories produced losses despite strong sales.
+
+4. A small group of customers contributed a large portion of total revenue.
+
+5. Monthly sales trends showed fluctuations with growth toward later years.
+
+6. Standard Class shipping required the highest average delivery time.
+
+7. Loss-making products may be impacted by discounts, operational costs, or low margins.
+
+8. Customer behavior analysis showed repeat high-value customers.
+
+RECOMMENDATIONS
+
+• Focus marketing efforts on profitable product categories.
+• Reduce discounts on consistently loss-making products.
+• Improve shipping efficiency for slower delivery methods.
+• Create loyalty programs for top customers.
+• Monitor regional sales performance regularly.
